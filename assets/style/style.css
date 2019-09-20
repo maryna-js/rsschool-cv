@@ -1,0 +1,143 @@
+@font-face {
+  font-family: "Lato";
+  src: url('..assets/fonts/Lato/Lato-Regular.ttf');
+}
+
+a {
+  text-decoration: none;
+  color: #0077af;
+}
+
+a:hover {
+  color: #495057;
+}
+
+li {
+  text-decoration: none;
+  list-style-position: inside;
+}
+
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  font-family: "Lato", "Arial", "Helvetica", sans-serif;
+  font-size: 14px;
+}
+
+header {
+  margin-top: 40px;
+}
+
+.photo {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin: 0 40px 40px 30px;
+  border-radius: 50%;
+}
+
+.social-list li {
+  display: inline-block;
+  float: right;
+}
+
+.item-social {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  margin: 3px;
+  font-size: 16px;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  color: #495057;
+  background: #9995;
+  border-radius: 50%;
+}
+
+.ico-github:hover {
+  color: #ffffff;
+  background: #000000;
+}
+
+.ico-linkedin:hover {
+  color: #ffffff;
+  background: #0077AF;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.5;
+  text-align: left;
+  color: #333333;
+}
+
+h1 span {
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  color: #5b5959;
+}
+
+.header-subtitle {
+  margin-left: 270px;
+  width: 750px;
+  color: #E1E4E8;
+}
+
+ul.contact-list {
+  margin-left: -40px;
+}
+
+.contact-list {
+  float: left;
+  width: 600px;
+  height: 25px;
+}
+
+.contact-list li {
+  display: inline-block;
+  margin: 5px;
+}
+
+.item-contact {
+  margin: 3px;
+  font-size: 16px;
+  color: #495057;
+}
+
+.item-contact:hover {
+  color: #0077af;
+}
+
+.item-contact a {
+  font-size: 16px;
+  color: #495057;
+}
+
+.item-contact a:hover {
+  color: #0077af;
+}
+
+.item-icon {
+  margin-right: 5px;
+}
+
+.summary {
+  float: left;
+  width: 750px;
+  font-size: 14px;
+  font-style: italic;
+  text-align: justify;
+  color: #999999;
+}
+
+h3 {
+  padding: 5px;
+  font-size: 18px;
+  background: #F4F4F4;
+  border-top: 1px solid #E1E4E8;
+  border-bottom: 1px solid #E1E4E8;
+}
