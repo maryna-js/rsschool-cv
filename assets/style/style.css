@@ -194,3 +194,30 @@ h2 {
   padding: 2px;
   border: 1px solid #888;
 }
+
+footer {
+  border-top: 1px solid #cccccc;
+}
+
+.bottom-text {
+  height: 20px;
+  font-size: 11px;
+  color: #cccccc;
+}
+
+.bottom-text-left {
+  float: left;
+  line-height: 0.3;
+}
+
+.bottom-text-left a {
+  color: #cccccc;
+}
+
+.bottom-text-left a:hover {
+  color: #0077af;
+}
+
+.bottom-text-right {
+  float: right;
+}
