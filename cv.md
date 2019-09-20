@@ -67,3 +67,20 @@ My strong work ethic and prior work experience will ensure that I make meaningfu
 
 - The National Academy of Sciences of Belarus - [Centre for System Analysis & Strategic Research](http://center.basnet.by/index.htm)    
 *HTML + CSS*: creation of HTML pages for website
+
+### Education
+
+BELARUS STATE ECONOMIC UNIVERSITY, Department of Economic Information Science.
+
+Additional Education:
+- CS50
+- Codeacademy: Introduction to HTML, Learn CSS
+- HTMLacademy: HTML Basics, CSS Basics
+- Udemy: Web Development By Doing: HTML / CSS From Scratch, Foundations of Front-End Web Development, Master the Basics of HTML5 & CSS3: Beginner Web Development
+
+### English level
+
+*Intermediate Level B1:*
+- in-depth study at school and university
+- 1 year experience working with English-speaking clients (at International Marketing Agency)
+- self-education (specialized Youtube channels with native speakers)
