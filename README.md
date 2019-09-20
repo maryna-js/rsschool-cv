@@ -1,1 +1,1 @@
-# rsschool-cv
+https://maryna-js.github.io/rsschool-cv/cv
