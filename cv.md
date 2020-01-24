@@ -6,7 +6,7 @@
 **e-mail**: rastargueva.m@gmail.com  
 **telegram**: @maryna_r  
 
-[LinkedIn](https://www.linkedin.com/in/marina-rastorgueva-22aa0b42/)    
+[LinkedIn](https://www.linkedin.com/in/maryna-rastargueva/)    
 [Github](https://github.com/maryna-js)      
 
 ***
